@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lea Henderson Personal Webpage Project</title>
+        
+    </head>
+    <body>
+        <h1 style="color: orange;">Lea Henderson</h1>
+        <a href="https://ibb.co/7VQ0KPw"><img src="https://i.ibb.co/q9C2pKt/196040360-2844679975783929-3836104568005478562-n.jpg" alt="196040360-2844679975783929-3836104568005478562-n" style="width: 500px; height: 500px; border="0" /></a>
+       <p><em>I am teaching myself how to code</em></p>
+        
+        <h2 style="color: orange;">About Me</h2>
+        <p>I am originally from Richmond, VA. I moved to North Carolina in 2016 with my husband, Jason. We have two cats, Frances and Eleanor.</p>
+
+        <h3 style="color: yellow;">Favorite Movies</h3>
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt0107290/" target_"blank">Jurassic Park</a></li>
+            <li><a href="https://www.imdb.com/title/tt0107614/" target_"blank">Mrs. Doubtfire</a></li>
+            <li><a href="https://www.imdb.com/title/tt0094721/?ref_=fn_al_tt_1" target_"blank">Beetlejuice</a></li>
+        </ul>
+
+        <h3 style="color: yellow;">Favorite Pastimes</h3>
+        <ul>
+            <li>Baseball</li>
+            <li>Music Festivals</li>
+            <li>Watching Documentaries</li>
+            <li>Camping</li>
+        </ul>
+
+        <h3 style="color: yellow;">Hobbies</h3>
+        <ul>
+            <li>Embroidery (I'm not very good)</li>
+            <li>Teaching myself to code</li>
+            <li>Chasing dopamine by researching niche topics that I'm suddenly interested in...<em>I can tell you about the history of brooches, if you're interested</em>.</li>
+        </ul>
+
+        <h4 style="color: greenyellow;">Social Media Links</h4>
+        <p><a href="https://www.facebook.com/leahenderson4" target_"blank">Facebook</a></p>
+        <p><a href="https://www.linkedin.com/in/leahenderson/" target_"blank">LinkedIn</a></p>
+        <p><a href="https://codepen.io/leahenderson" target_"blank">CodePen</a></p>
+        
+    </body>
+</html>
